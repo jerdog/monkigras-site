@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monki Gras</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Monki Gras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2025 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:1313/conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/conduct/</guid>
+      <description>&lt;p&gt;All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diversity, Inclusion, and Access</title>
+      <link>http://localhost:1313/inclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/inclusion/</guid>
+      <description>&lt;p&gt;We have been lucky to foster a diverse group of people in our community since starting Monki Gras, and do our very best to create a conference environment in which everyone feels welcome.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Event FAQ</title>
+      <link>http://localhost:1313/attend/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/attend/faq/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;COVID Protocol 
+    &lt;div id=&#34;covid-protocol&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#covid-protocol&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Our goal is to ensure everyone feels safe at our conference – attendees, speakers, organisers alike. In order to accomplish this, we need to set some parameters in place to keep things copacetic. We will be requiring a negative COVID test on both days in order to attend and participate with Monkigras.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/attend/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/attend/location/</guid>
+      <description>&lt;p&gt;We’re so back. Back to Shoreditch, that is. The venue this year is the &lt;strong&gt;Tab Centre&lt;/strong&gt;, which sits alongside the Tabernacle Church.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2579.180103729207!2d-0.0788545!3d51.5275531!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cb98f20d673%3A0x782e47d426cf73b5!2sTab%20Centre!5e1!3m2!1sen!2sus!4v1746391260812!5m2!1sen!2sus&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Getting there 
+    &lt;div id=&#34;getting-there&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#getting-there&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;You can easily to get the venue via tube, bike or foot (pending on where you are coming from).&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/schedule/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Day One, March 27 
+    &lt;div id=&#34;day-one-march-27&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#day-one-march-27&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Speaker&lt;/th&gt;
+          &lt;th&gt;Talk Title&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8:45&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Doors open&lt;/td&gt;
+          &lt;td&gt;Coffee served, verify tests&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:30&lt;/td&gt;
+          &lt;td&gt;MonkChips&lt;/td&gt;
+          &lt;td&gt;Welcome&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:45&lt;/td&gt;
+          &lt;td&gt;Taylor Barnett&lt;/td&gt;
+          &lt;td&gt;Creativity sustains the craft: Adventures in pairing with a machine&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:15&lt;/td&gt;
+          &lt;td&gt;Alex Chan&lt;/td&gt;
+          &lt;td&gt;Lessons Learned from Building to Last&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:45&lt;/td&gt;
+          &lt;td&gt;Dawn Foster&lt;/td&gt;
+          &lt;td&gt;Power Dynamics, Rug Pulls, and Other Corporate Impacts on OSS Sustainability&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:15&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+          &lt;td&gt;☕️&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:40&lt;/td&gt;
+          &lt;td&gt;Fintan Ryan&lt;/td&gt;
+          &lt;td&gt;Maintainers succession: Will or not to will&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:10&lt;/td&gt;
+          &lt;td&gt;Mike Fiedler&lt;/td&gt;
+          &lt;td&gt;The Slippery Slope of Volunteering&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:45&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Lunch&lt;/td&gt;
+          &lt;td&gt;🥗🥘🥙&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00&lt;/td&gt;
+          &lt;td&gt;MonkChips&lt;/td&gt;
+          &lt;td&gt;Welcome back from lunch&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:10&lt;/td&gt;
+          &lt;td&gt;Alex Zenla&lt;/td&gt;
+          &lt;td&gt;Isolation Through the Ages: Lessons from the Past, Challenges for the Future&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:40&lt;/td&gt;
+          &lt;td&gt;Lucas Käldström&lt;/td&gt;
+          &lt;td&gt;Anecdotes on attracting and retaining (young) contributors to open source&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:55&lt;/td&gt;
+          &lt;td&gt;Code Your Future&lt;/td&gt;
+          &lt;td&gt;Pezhman Azizi and Nadika Zavodovska&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:10&lt;/td&gt;
+          &lt;td&gt;Fine Cider&lt;/td&gt;
+          &lt;td&gt;Chat from a Brewer&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:20&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Coffee, Beer&lt;/td&gt;
+          &lt;td&gt;🍻☕️&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:10&lt;/td&gt;
+          &lt;td&gt;Michael Coté&lt;/td&gt;
+          &lt;td&gt;What the goblins can teach us about AI – lessons learned from two years of playing D&amp;amp;D with GenAI&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:40&lt;/td&gt;
+          &lt;td&gt;Lars Trieloff&lt;/td&gt;
+          &lt;td&gt;Zen and the Art of Bicycle Design: Lessons from Burrows and Moulton for Software Craft&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17:10&lt;/td&gt;
+          &lt;td&gt;Ricardo J. Mendez&lt;/td&gt;
+          &lt;td&gt;Passion Plays&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17:40&lt;/td&gt;
+          &lt;td&gt;Alan Pope&lt;/td&gt;
+          &lt;td&gt;The Luddites Were Right: Technological Resistance as a Force for Better Software&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18:10&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Closing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19:00&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Dinner&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Day Two, March 28 
+    &lt;div id=&#34;day-two-march-28&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#day-two-march-28&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Speaker&lt;/th&gt;
+          &lt;th&gt;Talk Title&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8:45&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Doors open&lt;/td&gt;
+          &lt;td&gt;Coffee served, verify tests&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:30&lt;/td&gt;
+          &lt;td&gt;MonkChips&lt;/td&gt;
+          &lt;td&gt;Welcome&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:40&lt;/td&gt;
+          &lt;td&gt;Ant Stanley&lt;/td&gt;
+          &lt;td&gt;Single Player Mode&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:10&lt;/td&gt;
+          &lt;td&gt;Patrick Debois&lt;/td&gt;
+          &lt;td&gt;Crashes: The Road to Craftspersonship&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:40&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+          &lt;td&gt;☕️&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:10&lt;/td&gt;
+          &lt;td&gt;Powen Shiah&lt;/td&gt;
+          &lt;td&gt;Open source is a sewer&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:40&lt;/td&gt;
+          &lt;td&gt;Christopher Neugebauer&lt;/td&gt;
+          &lt;td&gt;Truth Of Consequences&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:10&lt;/td&gt;
+          &lt;td&gt;Ben Duck&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Gravity Well Brewing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:20&lt;/td&gt;
+          &lt;td&gt;John&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Great Beyond Brewing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:30&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Lunch&lt;/td&gt;
+          &lt;td&gt;🥗🥘🥙&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00&lt;/td&gt;
+          &lt;td&gt;MonkChips&lt;/td&gt;
+          &lt;td&gt;Welcome back from lunch&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:10&lt;/td&gt;
+          &lt;td&gt;Madelyn Olson&lt;/td&gt;
+          &lt;td&gt;Valkey creation : Maintainer and consequences&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:40&lt;/td&gt;
+          &lt;td&gt;Stefan Prodan&lt;/td&gt;
+          &lt;td&gt;Overcome survival mode as an open source maintainer&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:10&lt;/td&gt;
+          &lt;td&gt;Kat Cosgrove&lt;/td&gt;
+          &lt;td&gt;Cannibalism as a Metaphor for Love in Open Source&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:40&lt;/td&gt;
+          &lt;td&gt;Eriol Fox&lt;/td&gt;
+          &lt;td&gt;Designing for security and privacy: Design lessons from human rights and civic technology&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:05&lt;/td&gt;
+          &lt;td&gt;Monkchips&lt;/td&gt;
+          &lt;td&gt;Closing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>http://localhost:1313/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/speakers/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Christopher Neugebauer 
+    &lt;div id=&#34;christopher-neugebauer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#christopher-neugebauer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Australian developer, speaker, and serial community conference organiser, living in the United States&lt;/li&gt;
+&lt;li&gt;Director of the Python Software Foundation&lt;/li&gt;
+&lt;li&gt;Co-organiser of North Bay Python conference&lt;/li&gt;
+&lt;li&gt;Contributor to the open source Pants build system&lt;/li&gt;
+&lt;li&gt;Social: &lt;a href=&#34;https://social.coop/@chrisjrn&#34; target=&#34;_blank&#34;&gt;@chrisjrn@social.coop&lt;/a&gt; or &lt;a href=&#34;https://bsky.app/profile/chrisjrn.fyi&#34; target=&#34;_blank&#34;&gt;@chrisjrn.fyi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Eriol Fox 
+    &lt;div id=&#34;eriol-fox&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#eriol-fox&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Designer with 10+ years of experience, working in for-profits, NGOs, and open-source software organizations&lt;/li&gt;
+&lt;li&gt;Currently works at Superbloom on design, research, open-source, and technology projects&lt;/li&gt;
+&lt;li&gt;Core team member at Open Source Design, Human Rights Centred Design working group, and Sustain UX &amp;amp; Design working group&lt;/li&gt;
+&lt;li&gt;Host of podcast about open source and design&lt;/li&gt;
+&lt;li&gt;Non-binary, queer person who uses they/them pronouns&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Alex Chan 
+    &lt;div id=&#34;alex-chan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#alex-chan&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Software developer at the Flickr Foundation&lt;/li&gt;
+&lt;li&gt;Working on keeping Flickr&amp;rsquo;s pictures visible for 100 years&lt;/li&gt;
+&lt;li&gt;Career focused on long-term projects in telecoms, museums, and libraries&lt;/li&gt;
+&lt;li&gt;Writer, open-source developer&lt;/li&gt;
+&lt;li&gt;Enjoys cross stitch and other hand crafts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Patrick Debois 
+    &lt;div id=&#34;patrick-debois&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#patrick-debois&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expert in DevOps, DevSecOps, and AI interaction&lt;/li&gt;
+&lt;li&gt;Principal product engineer at Humans and code&lt;/li&gt;
+&lt;li&gt;Co-author of the DevOps Handbook&lt;/li&gt;
+&lt;li&gt;Focuses on helping engineering teams become more productive with AI tooling&lt;/li&gt;
+&lt;li&gt;Active on LinkedIn, YouTube, bSky, and X&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Kat Cosgrove 
+    &lt;div id=&#34;kat-cosgrove&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#kat-cosgrove&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Open source advocate focused on growth and nurturing through authentic contribution&lt;/li&gt;
+&lt;li&gt;Involved in the Kubernetes project for years, particularly the Kubernetes Release Team&lt;/li&gt;
+&lt;li&gt;Release lead for v1.30 Uwubernetes&lt;/li&gt;
+&lt;li&gt;Currently serves as Release Team subproject owner and SIG Docs tech lead&lt;/li&gt;
+&lt;li&gt;Lives in Scotland with her cat, Espresso&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Stefan Prodan 
+    &lt;div id=&#34;stefan-prodan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#stefan-prodan&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Engineer and open source contributor to cloud-native projects&lt;/li&gt;
+&lt;li&gt;Creator of Flagger, the progressive delivery operator for Kubernetes&lt;/li&gt;
+&lt;li&gt;Core maintainer of Flux CD, a CNCF graduated project&lt;/li&gt;
+&lt;li&gt;Principal Consultant at ControlPlane (joined 2024)&lt;/li&gt;
+&lt;li&gt;Former Principal Engineer at Weaveworks (2017-2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Taylor Barnett-Torabi 
+    &lt;div id=&#34;taylor-barnett-torabi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#taylor-barnett-torabi&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior Product Manager at Netlify&lt;/li&gt;
+&lt;li&gt;Focuses on empowering developers to easily deploy their ideas to the web&lt;/li&gt;
+&lt;li&gt;Passionate about building great developer experiences&lt;/li&gt;
+&lt;li&gt;Nearly a decade in developer relations at various data and API developer-focused startups&lt;/li&gt;
+&lt;li&gt;Enjoys gardening in Austin, Texas&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Madelyn Olson 
+    &lt;div id=&#34;madelyn-olson&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#madelyn-olson&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Principal software engineer at AWS&lt;/li&gt;
+&lt;li&gt;Focuses on open-source strategy and security for multiple AWS services&lt;/li&gt;
+&lt;li&gt;Former member of the Redis Open-source governing board&lt;/li&gt;
+&lt;li&gt;Co-creator and maintainer of the Valkey project&lt;/li&gt;
+&lt;li&gt;Enjoys spending time in the Pacific Northwest outdoors&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Mike Fiedler 
+    &lt;div id=&#34;mike-fiedler&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#mike-fiedler&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Self-described Code Gardener&lt;/li&gt;
+&lt;li&gt;Works at the Python Software Foundation as the PyPI Safety &amp;amp; Security Engineer&lt;/li&gt;
+&lt;li&gt;Held senior leadership roles at Datadog, MongoDB, LeafLink, Warby Parker, and Paribus&lt;/li&gt;
+&lt;li&gt;Recognized with the Awesome Community Chef Award (2016) and AWS Container Hero (since 2018)&lt;/li&gt;
+&lt;li&gt;Volunteers as a roller derby referee&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Dr. Dawn Foster 
+    &lt;div id=&#34;dr-dawn-foster&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dr-dawn-foster&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Director of Data Science for the CHAOSS project&lt;/li&gt;
+&lt;li&gt;Board member and maintainer at CHAOSS&lt;/li&gt;
+&lt;li&gt;OpenUK board member and co-chair of the CNCF Contributor Strategy Technical Advisory Group&lt;/li&gt;
+&lt;li&gt;20+ years of experience at companies like VMware and Intel&lt;/li&gt;
+&lt;li&gt;BS in computer science, MBA, and PhD&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Lars Trieloff 
+    &lt;div id=&#34;lars-trieloff&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lars-trieloff&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Builds software systems at Adobe&lt;/li&gt;
+&lt;li&gt;Studies design history&lt;/li&gt;
+&lt;li&gt;Collects recumbent, folding, and forgotten bikes&lt;/li&gt;
+&lt;li&gt;Writes on minivelos.bike about transportation oddities and tech evolution&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Gail Myerscough 
+    &lt;div id=&#34;gail-myerscough&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gail-myerscough&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Surface pattern designer and illustrator based in Manchester&lt;/li&gt;
+&lt;li&gt;Creates unique surface patterns designs and bold, colorful illustrations&lt;/li&gt;
+&lt;li&gt;Inspired by mid-century design, music, and architecture&lt;/li&gt;
+&lt;li&gt;Has licensed and sold designs worldwide&lt;/li&gt;
+&lt;li&gt;Clients include Tim Burgess, Dave Rowntree, Gerry Anderson, and The Whitworth Art Gallery&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Ricardo J. Mendez 
+    &lt;div id=&#34;ricardo-j-mendez&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ricardo-j-mendez&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Varied background: building software for financial institutions, maintaining open source projects, creating interactive installations&lt;/li&gt;
+&lt;li&gt;Has served as CTO for troubled teams and run his own game studio&lt;/li&gt;
+&lt;li&gt;Currently advises and invests in early-stage teams&lt;/li&gt;
+&lt;li&gt;Advocate for privacy and decentralization&lt;/li&gt;
+&lt;li&gt;Can be reached on &lt;a href=&#34;https://bsky.app/profile/ricardo.bsky.social&#34; target=&#34;_blank&#34;&gt;Bluesky&lt;/a&gt; or &lt;a href=&#34;https://numergent.com/&#34; target=&#34;_blank&#34;&gt;Numergent&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Fintan Ryan 
+    &lt;div id=&#34;fintan-ryan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fintan-ryan&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Works at GitHub&lt;/li&gt;
+&lt;li&gt;Former industry analyst&lt;/li&gt;
+&lt;li&gt;Analyzes the broader technology industry&lt;/li&gt;
+&lt;li&gt;Enjoys reading, theatre, wine, and occasional rugby matches&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Alex Zenla 
+    &lt;div id=&#34;alex-zenla&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#alex-zenla&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CTO of Edera&lt;/li&gt;
+&lt;li&gt;Started learning about hypervisors and hardware technologies at age 7&lt;/li&gt;
+&lt;li&gt;Contributed to Chromium and Chromium OS projects from age 11&lt;/li&gt;
+&lt;li&gt;Involved in the Dart ecosystem, contributing to the language and standard library&lt;/li&gt;
+&lt;li&gt;Founded Edera to make cloud computing and AI secure-by-design&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Powen Shiah 
+    &lt;div id=&#34;powen-shiah&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#powen-shiah&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Handles communications at the Sovereign Tech Fund&lt;/li&gt;
+&lt;li&gt;Highlights the importance of open source digital infrastructure&lt;/li&gt;
+&lt;li&gt;Experience in product marketing, communications, and internationalization&lt;/li&gt;
+&lt;li&gt;Passionate about savory popcorn seasonings&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Michael Coté 
+    &lt;div id=&#34;michael-cot%C3%A9&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#michael-cot%C3%A9&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Studies how large organizations improve at building software&lt;/li&gt;
+&lt;li&gt;Author of &amp;ldquo;Changing Mindsets,&amp;rdquo; &amp;ldquo;Monolithic Transformation,&amp;rdquo; and &amp;ldquo;The Business Bottleneck&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Former industry analyst at RedMonk and 451 Research&lt;/li&gt;
+&lt;li&gt;Co-hosts podcasts including Software Defined Talk&lt;/li&gt;
+&lt;li&gt;Publishes a daily-ish newsletter at newsletter.cote.io&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Alan Pope 
+    &lt;div id=&#34;alan-pope&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#alan-pope&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tech industry veteran who transitioned from enterprise SAP consultant to open source advocate&lt;/li&gt;
+&lt;li&gt;Presents talks about technology and society&lt;/li&gt;
+&lt;li&gt;Records the Linux Matters podcast&lt;/li&gt;
+&lt;li&gt;Maintains a collection of vintage tech&lt;/li&gt;
+&lt;li&gt;Cat enthusiast and dog appreciator&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Lucas Kalstrom 
+    &lt;div id=&#34;lucas-kalstrom&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lucas-kalstrom&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kubernetes and cloud native contributor and expert&lt;/li&gt;
+&lt;li&gt;CNCF Ambassador for 7 years, awarded Top CNCF Ambassador 2017&lt;/li&gt;
+&lt;li&gt;Co-lead for SIG Cluster Lifecycle, WG Component Standard&lt;/li&gt;
+&lt;li&gt;Co-created kubeadm, Weave Ignite, and ported Kubernetes to ARM&lt;/li&gt;
+&lt;li&gt;Senior Software Engineer at Upbound&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>http://localhost:1313/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/sponsors/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Bishop Dean 
+    &lt;div id=&#34;bishop-dean&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#bishop-dean&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /img/heroku-logo_hu_262f2945f4e87bb9.webp 330w,
+        /img/heroku-logo_hu_45aefd78e42b1907.webp 660w,
+        /img/heroku-logo_hu_c9462880e9ec2578.webp 1024w,
+        /img/heroku-logo_hu_5427b206781aad86.webp 2x&#34;
+        data-zoom-src=&#34;http://localhost:1313/img/heroku-logo_hu_5427b206781aad86.webp&#34;
+        src=&#34;http://localhost:1313/img/heroku-logo_hu_45aefd78e42b1907.webp&#34;
+        alt=&#34;alt text&#34;
+      /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Dinner and Tasting 
+    &lt;div id=&#34;dinner-and-tasting&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#dinner-and-tasting&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /img/aws_hu_e900793020e0446b.webp 330w,
+        /img/aws_hu_2d3f7885b6a36d0a.webp 660w,
+        /img/aws_hu_e70ec558d7a69f8e.webp 1024w,
+        /img/aws_hu_a042f88d622add35.webp 2x&#34;
+        data-zoom-src=&#34;http://localhost:1313/img/aws_hu_a042f88d622add35.webp&#34;
+        src=&#34;http://localhost:1313/img/aws_hu_2d3f7885b6a36d0a.webp&#34;
+        alt=&#34;alt text&#34;
+      /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
